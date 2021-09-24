@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>HTML Frames</title>
+   </head>
+
+   <frameset cols = "20%,60%,20%">
+ <a href="https://en.wikipedia.org/wiki/Jasmine" > <frame name="left" src="C:\Users\aitha\Pictures\Saved Pictures"></a>
+ <a href="https://en.wikipedia.org/wiki/Lilium" ><frame  name="middle" src="C:\Users\aitha\OneDrive\Pictures\lilium"></a>
+ <a href="https://en.wikipedia.org/wiki/Nelumbo_nucifera" ><frame name="right" src="C:\Users\aitha\OneDrive\Pictures\yardley"></a>
+
+   
+      
+   </frameset>
+
+</html>
